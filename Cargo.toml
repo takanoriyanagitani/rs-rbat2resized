@@ -3,6 +3,13 @@ name = "rs-rbat2resized"
 version = "0.1.0"
 edition = "2024"
 
+description = "Resize Apache Arrow RecordBatches to a target size"
+license = "Apache-2.0"
+repository = "https://github.com/takanoriyanagitani/rs-rbat2resized"
+homepage = "https://github.com/takanoriyanagitani/rs-rbat2resized"
+documentation = "https://docs.rs/rs-rbat2resized/latest"
+keywords = ["arrow", "record", "batch", "resize"]
+
 exclude = [
 ]
 
